@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e6b66bf7b3296694b91c024e5375e073
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Pinky Style
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0150ae33e30934348834174167015fc4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

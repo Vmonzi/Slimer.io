@@ -1,0 +1,4 @@
+repository "Slimer.io_TP2@VMonzi@cloud"
+  path "/"
+    br "/main"
+    co "/main"
